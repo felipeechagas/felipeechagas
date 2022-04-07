@@ -1,7 +1,7 @@
-## 👋 Sou o Felipe Chagas!
+# Sou o Felipe Chagas!
 
-- 🔭 Hoje trabalho com FullStack (Java, SpringBoot, Html5, Css3, Angular) 
-- 🌱 Sempre estudando linguagem C / C++
+## - 🔭 Hoje trabalho com FullStack (Java, SpringBoot, Html5, Css3, Angular) 
+## - 🌱 Sempre estudando linguagem C / C++
 - 📫 Contate-me: felipechagasferreira@gmail.com
 
 <div align="center">
