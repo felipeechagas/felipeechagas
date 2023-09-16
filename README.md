@@ -1,4 +1,4 @@
-# Sou o Felipe Chagas!👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-chagas/)
+# Conecte-se Comigo!👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-chagas/)
 
 
 <div align="center">
