@@ -16,7 +16,7 @@
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" heidth="50px"/>
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" heidth="50px"/>  
   <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=70px" heidth="70px"/>
-  <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="100px" heidth="100px"/>  
+  <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px" heidth="100px"/>  
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60px" heidth="60px"/>
 </div>
   <div style = "display: inline_block">
