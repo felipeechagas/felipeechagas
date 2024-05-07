@@ -15,9 +15,9 @@
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" heidth="50px"/>
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" heidth="50px"/>
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" heidth="50px"/>  
-  <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=70px" heidth="70px"/>
+  <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width=60px" heidth="60px"/>
   <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" heidth="50px"/>  
-  <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60px" heidth="60px"/>
+  <img align="center" alt="ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50px" heidth="50px"/>
 </div>
   <div style = "display: inline_block">
     <img align="center" alt="netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
